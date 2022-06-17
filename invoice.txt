@@ -1,0 +1,19 @@
+Order Number 974659
+Customer: ddddd
+Email: d@pol360
+Phone Number: 00000
+Location: Gauteng
+
+You have ordered the following from Burger King in Witbank
+
+9 X Whopper(R30.50)
+ Special Instructions: hhhhh
+
+total: R274.5
+
+Kallum Sadler is nearest to the restaurant and so he will be delivering your order to you at 
+
+Gauteng
+fffff
+
+if you need to contact the restaurant, their number is 011 111 1111

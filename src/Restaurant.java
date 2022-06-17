@@ -187,7 +187,7 @@ public class Restaurant {
 
     try {
 
-      File driverFile = new File("./drivers.txt"); //creates a new file instance
+      File driverFile = new File("./driver-info.txt"); //creates a new file instance
 
       FileReader fileReader = new FileReader(driverFile); //reads the file
 
