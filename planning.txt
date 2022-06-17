@@ -1,0 +1,58 @@
+create a customer class which will hold th following information:
+  private int orderNumber;
+  private int mealQuantity;
+
+  private String customerName;
+  private String contactNumber;
+  private String address;
+  private String cityLocation;
+  private String email;
+  private String selectedRestaurant;
+  private String restaurantLocation;
+  private String restaurantContact;
+  private String selectedMeal;
+  private String selectedMealPrice;
+  
+  in the constuctor method that where all the details of the customer will be set
+  
+  
+  getCustomerName() - gets the customer name
+  getEmail() - gets the customer email
+  getContactNumber() - get the customer contact number
+  getAddress() - gets the customer address
+  getCustomerLocation() - get the customer location
+  getOrderNumber() - get the customer order number
+  getSpecialInstruction() - get the customers special instructions
+  getSelectedMeal() - get the selected meal
+  getSelectedMealPrice() - get the selected meal and price
+  getMealQuantity() - get the meals quantity
+  generateOrderNumber() - method that will generate the order number.
+  
+  selectOrder() - will invoke the restaurant object to get the detail of the restaurant and populate all the member variables with their respective values.
+  
+  getRestaurant() - gets the restaurant name
+  getRestaurantLocation() - gets the restaurants location
+  getRestaurantContact() - gets the restaurants contact number
+  
+create the restaurant class which will hold the following information:
+  
+  String restaurantName;
+  String location;
+  String contactNumber;
+  String orderedMeals;
+  String prepInstructions;
+  double payableAmount;
+  
+  also the meal prices
+  
+  the constructor method will set all the restaurants location, meals and contact details
+  
+  selectMeal() -  will list all the available meals for the restairant
+  
+  getMealPrice() - this will get the price of the meal associated
+  
+  setRestaurant() - lists the available restaurants
+  
+  getRestaurantDetails() - this return the restaurant location and contact details
+  
+  GetNearestDriver() - finds the nearest driver to the restaurant
